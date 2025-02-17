@@ -1,5 +1,5 @@
 # Arduino Go Example
-This is an example/tutorial for beginners to use the Go programming language to program Arduinos. Go is an easier language to learn than C or C++, so this is a great way for beginners to get into embedded systems.
+This is an example/tutorial for using TinyGo to program Arduino boards. TinyGo is a Go compiler for small places, making it possible to use the Go programming language for microcontrollers and embedded systems. This tutorial demonstrates how to write Go code that can be compiled to run on Arduino hardware, combining the simplicity and safety features of Go with embedded systems development.
 
 # Prerequisites
 
